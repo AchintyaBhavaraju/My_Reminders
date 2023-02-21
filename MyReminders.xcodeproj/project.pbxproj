@@ -16,6 +16,7 @@
 		A8D0DAB429A3E7300093296A /* MyRemindersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D0DAB329A3E7300093296A /* MyRemindersTests.swift */; };
 		A8D0DABE29A3E7300093296A /* MyRemindersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D0DABD29A3E7300093296A /* MyRemindersUITests.swift */; };
 		A8D0DAC029A3E7300093296A /* MyRemindersUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D0DABF29A3E7300093296A /* MyRemindersUITestsLaunchTests.swift */; };
+		A8D0DACD29A3ED960093296A /* AddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8D0DACC29A3ED960093296A /* AddViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A8D0DAB929A3E7300093296A /* MyRemindersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyRemindersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8D0DABD29A3E7300093296A /* MyRemindersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyRemindersUITests.swift; sourceTree = "<group>"; };
 		A8D0DABF29A3E7300093296A /* MyRemindersUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyRemindersUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A8D0DACC29A3ED960093296A /* AddViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				A8D0DAA529A3E72F0093296A /* Assets.xcassets */,
 				A8D0DAA729A3E72F0093296A /* LaunchScreen.storyboard */,
 				A8D0DAAA29A3E72F0093296A /* Info.plist */,
+				A8D0DACC29A3ED960093296A /* AddViewController.swift */,
 			);
 			path = MyReminders;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				A8D0DAA129A3E72E0093296A /* ViewController.swift in Sources */,
 				A8D0DA9D29A3E72E0093296A /* AppDelegate.swift in Sources */,
+				A8D0DACD29A3ED960093296A /* AddViewController.swift in Sources */,
 				A8D0DA9F29A3E72E0093296A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
